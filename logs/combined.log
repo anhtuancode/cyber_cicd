@@ -1,0 +1,2470 @@
+{"level":"error","message":"Password wrong","tag":"SYSTEM"}
+{"level":"info","message":"Password successful","tag":"SYSTEM"}
+{"level":"info","message":"Password successful","tag":"SYSTEM"}
+{"level":"info","message":"Password successful","tag":"SYSTEM"}
+{"level":"info","message":"","tag":"SYSTEM"}
+{"level":"info","message":"Example app listening on port 3000","tag":"SYSTEM"}
+{"level":"info","message":"Example app listening on port 3000","tag":"SYSTEM"}
+{"level":"info","message":"Server is online on port 3000","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Password successful","tag":"SYSTEM"}
+{"level":"info","message":"GET /demo/prisma 200 2789 81.210ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article 500 77 5.360ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/ 500 77 68.426ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/ 500 77 13.878ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/ 200 118 1.891ms","tag":"API"}
+{"level":"info","message":"GET /article/ 200 118 0.636ms","tag":"API"}
+{"level":"info","message":"GET /article/ 200 118 0.945ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=1&pageSize=3 200 118 2.789ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=1&pageSize=3 200 922 48.200ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=1&pageSize=3 200 undefined 27.974ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=1&pageSize=3 200 922 28.172ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=-100&pageSize=3 200 918 50.334ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=-100&pageSize=3&search=design 200 918 10.809ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=-100&pageSize=3&search=design 200 417 28.482ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=-100&pageSize=3&search=development 200 428 7.681ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=-100&pageSize=3&search=Development 200 428 10.248ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=-100&pageSize=3&search=Develop 200 428 9.392ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=-100&pageSize=3&search= 200 918 11.997ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /auth/register 404 152 3.147ms","tag":"API"}
+{"level":"info","message":"GET /register 404 147 2.838ms","tag":"API"}
+{"level":"info","message":"GET /auth/register 404 152 0.664ms","tag":"API"}
+{"level":"info","message":"POST /auth/register 500 85 4.377ms","tag":"API"}
+{"level":"info","message":"POST /auth/register 500 85 1.675ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/register 200 116 1.968ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/register 200 110 3.278ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/register 200 110 24.343ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/register 500 584 30.019ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/register 200 328 49.117ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/register 400 90 23.593ms","tag":"API"}
+{"level":"info","message":"POST /auth/register 500 73 6.968ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/register 200 387 89.524ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/register 200 316 87.313ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 200 110 1.726ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 200 107 1.777ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 200 107 2.999ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 107 1.610ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 400 82 24.548ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 400 82 5.207ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 500 99 17.463ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 500 99 19.775ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 400 85 25.927ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 384 59.718ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 500 87 66.355ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"error","message":"18","tag":"SYSTEM"}
+{"level":"info","message":"POST /auth/login 400 85 29.725ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 500 82 155.013ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 500 82 117.939ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 500 82 73.335ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 200 387 91.741ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 200 387 74.484ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 200 387 73.951ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 200 105 75.825ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 105 59.699ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 105 60.878ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 200 105 75.526ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 200 105 78.132ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 200 105 76.955ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 200 105 77.220ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 200 265 92.606ms","tag":"API"}
+{"level":"info","message":"GET /auth/register?page=1&pageSize=3 404 152 5.005ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 200 265 127.436ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /demo/send-email 200 112 6.622ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /demo/send-email 200 112 3826.359ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /demo/send-email 200 112 3117.017ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 500 852 65.742ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/login 500 852 18.293ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 400 82 39.599ms","tag":"API"}
+{"level":"error","message":"11","tag":"SYSTEM"}
+{"level":"info","message":"POST /auth/login 400 85 13.604ms","tag":"API"}
+{"level":"error","message":"1","tag":"SYSTEM"}
+{"level":"info","message":"POST /auth/login 400 85 10.738ms","tag":"API"}
+{"level":"error","message":"1","tag":"SYSTEM"}
+{"level":"info","message":"POST /auth/login 400 85 7.857ms","tag":"API"}
+{"level":"error","message":"11","tag":"SYSTEM"}
+{"level":"info","message":"POST /auth/login 400 85 7.206ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"error","message":"11","tag":"SYSTEM"}
+{"level":"info","message":"POST /auth/login 400 85 36.175ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"error","message":"11","tag":"SYSTEM"}
+{"level":"info","message":"POST /auth/login 400 85 21.425ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 500 105 5.522ms","tag":"API"}
+{"level":"error","message":"11","tag":"SYSTEM"}
+{"level":"info","message":"POST /auth/login 400 85 5.547ms","tag":"API"}
+{"level":"info","message":"POST /auth/register 200 317 81.299ms","tag":"API"}
+{"level":"error","message":"11","tag":"SYSTEM"}
+{"level":"info","message":"POST /auth/login 400 85 5.250ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 79.756ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 143.645ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 128.249ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 119.052ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 144.316ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/refresh-token 200 427 28.390ms","tag":"API"}
+{"level":"info","message":"POST /article/?page=1&pageSize=5 401 79 9.504ms","tag":"API"}
+{"level":"info","message":"POST /auth/refresh-token 200 427 8.180ms","tag":"API"}
+{"level":"info","message":"POST /article/?page=1&pageSize=5 401 79 2.144ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 401 79 1.450ms","tag":"API"}
+{"level":"info","message":"GET /article 401 79 0.897ms","tag":"API"}
+{"level":"info","message":"POST /auth/refresh-token 200 427 3.618ms","tag":"API"}
+{"level":"info","message":"GET /article 401 79 0.937ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /auth/get-info 401 79 11.055ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 403 59 6.465ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 159.305ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 403 59 6.611ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 403 59 2.519ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 70.400ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 396 7.779ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /auth/get-info 403 59 9.138ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 81.984ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 322 5.677ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 401 79 6.721ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 150.822ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 401 79 3.115ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 401 79 0.843ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 64.166ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 401 79 1.789ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 200 1392 46.989ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 403 59 16.388ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 130.152ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 200 1392 51.907ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 403 59 1.862ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 65.644ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 200 1392 15.139ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 403 59 7.504ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 74.444ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 200 1392 17.772ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 403 59 6.124ms","tag":"API"}
+{"level":"info","message":"POST /auth/refresh-token 200 427 5.315ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 200 1392 57.205ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/refresh-token 200 427 13.623ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 200 1392 87.486ms","tag":"API"}
+{"level":"info","message":"POST /auth/register 200 327 83.506ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/register 500 158 27.453ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/register 500 106 4.203ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/register 500 749 95.555ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/register 200 363 87.110ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 425 76.216ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 500 106 3.768ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 403 59 12.346ms","tag":"API"}
+{"level":"info","message":"POST /auth/refresh-token 200 425 7.190ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 500 106 2.091ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 403 59 10.343ms","tag":"API"}
+{"level":"info","message":"POST /auth/refresh-token 200 425 4.362ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 200 1492 26.361ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 403 59 5.785ms","tag":"API"}
+{"level":"info","message":"POST /auth/refresh-token 200 425 4.813ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 200 1492 43.992ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/refresh-token 200 425 8.582ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 200 1492 27.811ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 403 59 29.863ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/refresh-token 200 425 8.120ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 200 1492 36.053ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/refresh-token 200 425 31.304ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 200 1492 171.253ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /role 404 143 2.746ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /role 404 143 2.711ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /role 404 143 2.667ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /role 500 266 53.731ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /role 500 266 37.803ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /role 500 266 24.420ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /role 200 601 56.736ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /role 500 266 20.832ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /role 200 601 50.248ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /role 200 601 18.246ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /role/2 500 223 28.830ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /role/2 200 323 42.463ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 5.680ms","tag":"API"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 0.654ms","tag":"API"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 0.636ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 5.225ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 2.010ms","tag":"API"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 0.549ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 3.431ms","tag":"API"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 1.334ms","tag":"API"}
+{"level":"info","message":"GET /permission/group-by-module/1 404 167 0.567ms","tag":"API"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 0.344ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 4.077ms","tag":"API"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 1.404ms","tag":"API"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 1.139ms","tag":"API"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 0.905ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 403 59 25.375ms","tag":"API"}
+{"level":"info","message":"POST /auth/refresh-token 200 425 10.615ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 200 1492 196.437ms","tag":"API"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 0.367ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /permission/group-by-module/2 404 168 2.635ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 2.359ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission/group-by-module/2 404 167 3.324ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission/group/2 404 157 2.056ms","tag":"API"}
+{"level":"info","message":"GET /permission 404 149 0.897ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /role 200 601 26.458ms","tag":"API"}
+{"level":"info","message":"GET /permission 404 149 1.111ms","tag":"API"}
+{"level":"info","message":"GET /role/2 200 323 7.586ms","tag":"API"}
+{"level":"info","message":"GET /permission 404 149 2.080ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission 404 149 2.385ms","tag":"API"}
+{"level":"info","message":"GET /permission 404 149 0.671ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /per 404 142 8.389ms","tag":"API"}
+{"level":"info","message":"GET /permission 404 149 1.996ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission 404 149 2.675ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission 404 149 1.634ms","tag":"API"}
+{"level":"info","message":"GET /permission 404 149 0.781ms","tag":"API"}
+{"level":"info","message":"GET /permission/ 404 150 1.116ms","tag":"API"}
+{"level":"info","message":"GET /permission/ 404 150 0.555ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission/ 200 121 3.527ms","tag":"API"}
+{"level":"info","message":"GET /permission 200 121 0.779ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission/group-by-module/2 200 1047 30.460ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /permission/group-by-module/2 200 1326 42.176ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /favicon.ico 404 150 2.091ms","tag":"API"}
+{"level":"info","message":"GET /api-docs 301 158 3.182ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 200 3106 2.198ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 1773 1.012ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 200 154986 17.291ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 200 229223 16.467ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 200 1468326 17.153ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 200 628 1.729ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 5.382ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 6.032ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 7.147ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 8.418ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 1774 1.131ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.179ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 5.982ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 1.876ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 3.284ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 3.112ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 1958 0.732ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.554ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 8.581ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 3.342ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 1994 1.546ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 12.887ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 15.823ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.738ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 1.384ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 1.597ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 0.600ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 7.262ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 8.351ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.438ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 0.795ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 1.887ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 0.242ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 4.382ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 5.529ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.193ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 0.578ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 1.044ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 0.867ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 5.033ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 4.945ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.129ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 0.819ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 0.790ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 1.324ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 0.420ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 7.193ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-16x16.png 200 665 11.848ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.019ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 1.705ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 0.836ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 0.166ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 2.158ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 3.700ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-16x16.png 304 undefined 0.655ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 1.180ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 1.519ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 0.214ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 2.887ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 3.225ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 4.058ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.527ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 0.722ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 0.789ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 0.278ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 2.814ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 4.367ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 0.758ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 6.146ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 4.737ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 4.986ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 1.075ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 2126 0.934ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.022ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 6.459ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 4.354ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 2.994ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 2222 1.256ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 8.464ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 2.393ms","tag":"API"}
+{"level":"info","message":"GET /article/ 401 61 5.544ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 5.391ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 2.885ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 2334 0.673ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 6.574ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 7.379ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 0.801ms","tag":"API"}
+{"level":"info","message":"GET /article/ 401 61 2.262ms","tag":"API"}
+{"level":"info","message":"GET /article/ 401 61 1.642ms","tag":"API"}
+{"level":"info","message":"GET /article/ 401 61 4.047ms","tag":"API"}
+{"level":"info","message":"GET /article/ 401 61 1.373ms","tag":"API"}
+{"level":"info","message":"GET /article/ 401 61 1.259ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 1.211ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 1.421ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 1.921ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 0.329ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 3.184ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.214ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 0.650ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 1.448ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 4.402ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 0.346ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 4.810ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 0.655ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 0.947ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 0.473ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 0.643ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 4.641ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 6.726ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 0.742ms","tag":"API"}
+{"level":"info","message":"GET /article/ 401 61 1.468ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"POST /auth/refresh-token 200 425 25.359ms","tag":"API"}
+{"level":"info","message":"GET /article/?page=1&pageSize=5 200 1492 200.102ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 4.944ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 6.043ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 1.962ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 1.246ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 11.671ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.322ms","tag":"API"}
+{"level":"info","message":"GET /article/ 500 272 45.307ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 3.031ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 4.713ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 4.577ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 0.310ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 4.552ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 3.548ms","tag":"API"}
+{"level":"info","message":"GET /article/ 500 272 37.513ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 4.313ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 2.664ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 3.278ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 3319 0.420ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 4.452ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.010ms","tag":"API"}
+{"level":"info","message":"GET /article/ 500 272 77.516ms","tag":"API"}
+{"level":"info","message":"GET /article/%7Bid%7D 404 155 13.992ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 7.575ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 2.191ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 4.924ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 3320 1.018ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 16.326ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 0.786ms","tag":"API"}
+{"level":"info","message":"GET /article/ 500 272 41.097ms","tag":"API"}
+{"level":"info","message":"GET /article/ 500 272 37.054ms","tag":"API"}
+{"level":"info","message":"GET /article/ 500 272 24.881ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 4.387ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 5.673ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 1.111ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 4190 0.464ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 3.891ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 0.680ms","tag":"API"}
+{"level":"info","message":"GET /article/ 500 272 96.123ms","tag":"API"}
+{"level":"info","message":"GET /article/%7Bid%7D 404 155 19.645ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 4.799ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 1.996ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 1.543ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 1.050ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 0.463ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 0.766ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 400 82 18.235ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 400 82 5.215ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 400 82 5.663ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 2.877ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 1.002ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 2.344ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 2.901ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 304 undefined 0.256ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.735ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 400 82 22.403ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 400 82 4.548ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 400 82 4.014ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 400 82 3.291ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 425 66.391ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 425 59.400ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 425 58.918ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 425 61.397ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 4.533ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 1.377ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 1.964ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 1.942ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 4191 0.614ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.364ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 425 105.681ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /user/ 200 141 3.172ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3000","tag":"S"}
+{"level":"info","message":"GET /admin/products 404 153 6.541ms","tag":"API"}
+{"level":"info","message":"GET /favicon.ico 404 150 1.239ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"POST /auth/register 400 90 108.233ms","tag":"API"}
+{"level":"info","message":"POST /auth/register 200 371 170.948ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 80.480ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 599 24.091ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 2.613ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 46.084ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 141 0.602ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 86.111ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 599 16.000ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.793ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 46.353ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 2.076ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.226ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 141 34.770ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 599 12.751ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.934ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 25.866ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.857ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 2.146ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 141 0.838ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.960ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.443ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.654ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 2.623ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.835ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.841ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.493ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.598ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.346ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.265ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.033ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 3.758ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.775ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.834ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.415ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.623ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.406ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.274ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.348ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.560ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.244ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.670ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.951ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.311ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.164ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.335ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.057ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.366ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.468ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.864ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.297ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.475ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.387ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.652ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 2.679ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 2.136ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.186ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.619ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.130ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.553ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.964ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.534ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.212ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.696ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.763ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.592ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.655ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.636ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.609ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.657ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 206.526ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 599 19.959ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.793ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 49.089ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.368ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 141 1.532ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.591ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.995ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 1.725ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.287ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.292ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=14&EIO=4&transport=websocket 404 149 0.498ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 500 79 3.178ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 500 79 4.018ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 500 79 2.933ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 500 79 3.061ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 500 79 2.643ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 500 79 2.811ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"POST /auth/google-login 500 106 598.285ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"POST /auth/google-login 200 432 745.351ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 591 29.484ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 8.155ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 157.735ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 3.012ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 7.979ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 141 2.391ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.319ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.673ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.747ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 3.862ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.810ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.528ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.463ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.678ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 591 120.446ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.696ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 81.328ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.105ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 141 2.197ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.403ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.197ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.900ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.298ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.964ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.656ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.333ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.698ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.649ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.165ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.562ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.773ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.352ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.485ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.378ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.420ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.568ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.713ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.170ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.619ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.511ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.897ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.130ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.609ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.625ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.337ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 500 808 590.129ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"POST /auth/google-login 200 434 726.785ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 717 25.527ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 6.822ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 76.773ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 4.467ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 141 3.171ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.660ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.054ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.897ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.355ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.630ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.317ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.532ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.691ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.383ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.188ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.423ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.629ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.247ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.965ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.916ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.357ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.485ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.984ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.002ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.289ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.438ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.998ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.884ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.741ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.496ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.038ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.313ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.220ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.561ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.962ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 717 82.724ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 33.899ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.335ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 141 1.046ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.373ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.659ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.316ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.601ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.223ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.506ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.187ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.262ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.291ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.639ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.095ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.625ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.144ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.807ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.723ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 5.353ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.629ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.941ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.360ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.178ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.810ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.113ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.800ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.614ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.642ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.783ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.961ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.390ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.778ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.172ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.112ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.051ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 3.248ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.665ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 3.556ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.120ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.778ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.522ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.255ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.313ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.494ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 4.177ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.737ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.988ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 3.850ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.943ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.018ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.832ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.556ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.288ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 4.104ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.888ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.509ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.168ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 717 26.774ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 18.946ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 12.435ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 3.581ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 3.241ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.866ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.999ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.459ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 4.067ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.936ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 3.753ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.739ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.568ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.099ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.322ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.382ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.582ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.005ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.613ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 3.069ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.505ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.392ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.470ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.775ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 3.646ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.919ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 717 31.383ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 24.654ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 16.765ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.899ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 0.650ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 2.796ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=15&EIO=4&transport=websocket 404 149 1.924ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 401 61 2.740ms","tag":"API"}
+{"level":"info","message":"GET /article 401 61 2.507ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 401 61 8.107ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 200 432 416.917ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 591 10.463ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.906ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 25.581ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 8.348ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 15.480ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 3.295ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.505ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.028ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 3.204ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 4.498ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.613ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.497ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 3.123ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.975ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 4.734ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.821ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.473ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.335ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.364ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 3.656ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.428ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.255ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.639ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.559ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 3.356ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.595ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.255ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.366ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.675ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.225ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.768ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.271ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 3.198ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.581ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.609ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.294ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.034ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.701ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.302ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.270ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.774ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.154ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.711ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.355ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.156ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.628ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.665ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.522ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 591 61.598ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 48.504ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 10.607ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.064ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.399ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.019ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.227ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.366ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.190ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.657ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.491ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.729ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.688ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.485ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 2.309ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.888ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 1.889ms","tag":"API"}
+{"level":"info","message":"GET /socket.io/?userId=6&EIO=4&transport=websocket 404 149 0.900ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"S"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"POST /auth/login 200 425 175.904ms","tag":"API"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server is online on port 3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /auth/login 200 425 138.248ms","tag":"API"}
+{"level":"info","message":"POST /auth/refresh-token 200 425 8.383ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 401 61 7.841ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 200 432 271.504ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 591 19.987ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 200 434 243.364ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 717 13.337ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 44.006ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 30.633ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 404 143 3.644ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /auth/get-info 200 717 27.992ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 27.825ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 23.333ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 404 143 2.638ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /auth/get-info 200 717 37.484ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 39.819ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 25.400ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 404 143 1.975ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /auth/get-info 200 717 30.548ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 34.844ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 22.037ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 404 143 1.728ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 404 143 1.131ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 404 143 0.315ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=6&pageSize=10 404 143 0.684ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=2&pageSize=10 404 143 1.273ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /auth/google-login 200 432 307.973ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 591 9.412ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 21.249ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 13.438ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 404 143 2.857ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /auth/get-info 200 591 49.897ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 23.039ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 20.488ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 591 9.689ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 17.347ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 14.999ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 500 464 9.774ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /auth/get-info 200 591 25.536ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 24.944ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 24.983ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /auth/get-info 200 591 29.673ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 25.354ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 16.218ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=15&pageSize=10 500 464 10.119ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 500 464 8.621ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=1&pageSize=10 500 462 25.498ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /auth/get-info 200 591 34.063ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 53.111ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 18.532ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=1&pageSize=10 500 462 16.068ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /auth/get-info 200 591 21.215ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 20.214ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 17.955ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=1&pageSize=10 500 69 10.736ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /auth/get-info 401 61 43.603ms","tag":"API"}
+{"level":"info","message":"GET /article 401 61 1.607ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 200 432 452.630ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 591 14.485ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 27.625ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 591 9.785ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 18.518ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 19.260ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 500 464 9.281ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /auth/get-info 200 591 30.232ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 38.017ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 14.836ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 500 464 11.236ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /auth/google-login 200 432 508.922ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 591 11.297ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 40.072ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 39.947ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 500 464 19.550ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /auth/get-info 200 591 33.271ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 39.055ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 22.048ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 500 464 16.345ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /auth/get-info 200 591 42.072ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 41.251ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2551 22.805ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 200 174 22.885ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=15&pageSize=10 200 174 13.451ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /graphql 400 undefined 1.612ms","tag":"API"}
+{"level":"info","message":"GET /graphql 400 undefined 0.783ms","tag":"API"}
+{"level":"info","message":"POST / 404 140 1.188ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 20.906ms","tag":"API"}
+{"level":"info","message":"POST / 404 140 0.437ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 0.918ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 6.227ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 0.369ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 1.398ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /graphql 200 undefined 25.928ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 0.833ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /graphql 200 undefined 5.548ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 0.806ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 17.100ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 0.985ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 1.363ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /graphql 200 undefined 13.070ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 109.328ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /ruru 200 undefined 6.677ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 17.151ms","tag":"API"}
+{"level":"info","message":"GET /favicon.ico 404 150 1.332ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 0.865ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 0.498ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 27.459ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 6.286ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 5.841ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 7.729ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 6.969ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 6.804ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 11.020ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /ruru 200 undefined 2.697ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 16.902ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 19.091ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /ruru 200 undefined 3.820ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 31.803ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 57.424ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 7.553ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 9.635ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /ruru 200 undefined 5.151ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 15.141ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 199.396ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /ruru 200 undefined 3.995ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 18.775ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 38.190ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 9.295ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 37.503ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 1.752ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 10.006ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /graphql 200 undefined 16.959ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /graphql 200 undefined 14.639ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 33.192ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 10.302ms","tag":"API"}
+{"level":"info","message":"POST /auth/refresh-token 200 425 15.185ms","tag":"API"}
+{"level":"info","message":"POST /graphql 200 undefined 58.927ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /avatar-local 404 152 3.640ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-local 200 131 6.280ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /user/avatar-local 200 131 43.180ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /user/avatar-local 200 131 67.527ms","tag":"API"}
+{"level":"info","message":"GET /images/44c54cc7a4df70f0f125833c04db1f72.jpg 404 182 4.941ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /user/avatar-local 500 197 108.665ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /user/avatar-local 200 131 33.149ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /user/avatar-local 200 236 26.041ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-local 200 236 11.351ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 401 61 5.127ms","tag":"API"}
+{"level":"info","message":"GET /article 401 61 1.754ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 401 61 1.960ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 401 61 1.794ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=15&pageSize=10 401 61 3.360ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /user/avatar-local 200 236 58.825ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-local 500 67 28.642ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-local 500 67 34.495ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-local 500 67 13.782ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /article 401 61 12.508ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 500 79 201.987ms","tag":"API"}
+{"level":"info","message":"POST /auth/refresh-token 200 425 24.921ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 500 79 195.747ms","tag":"API"}
+{"level":"error","message":"6","tag":"SYSTEM"}
+{"level":"info","message":"POST /auth/login 400 85 413.544ms","tag":"API"}
+{"level":"error","message":"6","tag":"SYSTEM"}
+{"level":"info","message":"POST /auth/login 400 85 262.581ms","tag":"API"}
+{"level":"info","message":"POST /auth/register 200 373 185.337ms","tag":"API"}
+{"level":"info","message":"POST /auth/login 200 427 184.420ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 77.900ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2924 54.731ms","tag":"API"}
+{"level":"info","message":"GET /images/local-1745336668519-973371218.jpg 404 179 1.946ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=16&pageSize=10 200 174 59.667ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=16&pageSize=10 200 174 13.595ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /user/avatar-cloud 200 165 2.256ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-cloud 401 79 7.108ms","tag":"API"}
+{"level":"info","message":"POST /auth/refresh-token 200 425 10.410ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-cloud 401 79 2.511ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-cloud 200 127 80.155ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-cloud 200 127 17.082ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /user/avatar-cloud 200 127 7436.524ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-cloud 200 127 3686.368ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-cloud 200 127 3647.445ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /user/avatar-cloud 200 223 13735.780ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /user/avatar-cloud 200 121 5169.183ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /user/avatar-cloud 200 121 3915.435ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /user/avatar-cloud 200 121 5236.898ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"POST /user/avatar-cloud 200 261 3878.186ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-cloud 200 269 8243.275ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-cloud 200 269 4371.287ms","tag":"API"}
+{"level":"info","message":"POST /user/avatar-cloud 200 261 4481.750ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /auth/get-info 401 61 5.001ms","tag":"API"}
+{"level":"info","message":"GET /article 401 61 1.010ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 401 61 1.129ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=16&pageSize=10 401 61 1.571ms","tag":"API"}
+{"level":"info","message":"POST /auth/refresh-token 200 425 5.366ms","tag":"API"}
+{"level":"info","message":"POST /auth/google-login 200 432 488.399ms","tag":"API"}
+{"level":"info","message":"GET /auth/get-info 200 616 11.943ms","tag":"API"}
+{"level":"info","message":"GET /article 500 272 36.058ms","tag":"API"}
+{"level":"info","message":"GET /user?pageSize=100 200 2918 37.581ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=16&pageSize=10 200 174 18.193ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=15&pageSize=10 200 516 9.247ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=15&pageSize=10 200 516 18.072ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=2&pageSize=10 200 174 12.766ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=3&pageSize=10 200 174 7.897ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=16&pageSize=10 200 343 8.995ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=15&pageSize=10 200 516 8.784ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=14&pageSize=10 200 516 13.307ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=1&pageSize=10 200 174 12.648ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=15&pageSize=10 200 516 12.060ms","tag":"API"}
+{"level":"info","message":"GET /chat?page=1&userIdRecipient=3&pageSize=10 200 342 10.699ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /api-docs 301 158 5.468ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 200 3106 8.085ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 200 154986 10.756ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 4191 2.042ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 200 229223 15.399ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 200 1468326 14.220ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 200 628 5.087ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /api-docs/ 304 undefined 7.412ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 5.729ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 7.851ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 4304 1.241ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 5.676ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 0.706ms","tag":"API"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"Server online at http://localhost:3069","tag":"SERVER"}
+{"level":"info","message":"GET /api-docs 301 158 4.245ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/ 200 3106 7.592ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css 304 undefined 7.724ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js 304 undefined 8.996ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js 200 4260 1.092ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js 304 undefined 7.370ms","tag":"API"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png 304 undefined 1.635ms","tag":"API"}
