@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+    
+jobs:
+  # tên công việc mà github sẽ làm
+  build:
+    #chạy trên hệ điều hành ubuntu mới nhất
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Login Docker Hub
+        # -u: username, -p: password
+        run: docker login -u anhtuan220903 -p ${{secrets.DOCKER_PASSWORD}}
+
+      - name: Build image
+        run: docker build -t anhtuan220903/img-cyber_nodejs50:latest .
+
+      - name: Push image into docker Hub
+        run: docker push anhtuan220903/img-cyber_nodejs50:latest

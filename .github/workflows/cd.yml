@@ -1,0 +1,32 @@
+name: CD
+
+on: 
+  workflow_run: 
+    workflows: ["CI"]
+    types: [completed]
+
+jobs:
+  build: 
+    runs-on: node_50
+    
+    steps:
+      - name: Deleted .env
+        run: sudo rm -f .env
+
+      - name: Created new .env
+        run: | 
+          echo "DATABASE_URL=${{secrets.DATABASE_URL}}" >> .env
+          echo "ACCESS_TOKEN_SECRET=${{secrets.ACCESS_TOKEN_SECRET}}" >> .env
+          echo "ACCESS_TOKEN_EXPIRES=${{secrets.ACCESS_TOKEN_EXPIRES}}" >> .env
+          echo "REFRESH_TOKEN_SECRET=${{secrets.REFRESH_TOKEN_SECRET}}" >> .env
+          echo "REFRESH_TOKEN_EXPIRES=${{secrets.REFRESH_TOKEN_EXPIRES}}" >> .env
+          echo "GOOGLE_CLIENT_ID=${{secrets.GOOGLE_CLIENT_ID}}" >> .env
+          echo "GOOGLE_CLIENT_SECRET=${{secrets.GOOGLE_CLIENT_SECRET}}" >> .env
+      - name: Stoped and Deleted container
+        run: |
+          sudo docker container stop con-cyber_nodejs50 || true
+          sudo docker container remove con-cyber_nodejs50 || true
+      - name: Deleted image
+        run: sudo docker image rm anhtuan220903/img-cyber_nodejs50:latest || true
+      - name: Run docker compose
+        run: sudo docker compose up -d

@@ -1,6 +1,6 @@
 services:
   servicecyber_nodejs50:
-    image: img-cyber_nodejs50
+    image: anhtuan220903/img-cyber_nodejs50:latest
     container_name: con-cyber_nodejs50
     ports:
       - 3070:3069
